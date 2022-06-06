@@ -1,3 +1,5 @@
 - New Comer 2
 - Golang Intro
-- PHP
+- Git
+- JS
+- Vue
